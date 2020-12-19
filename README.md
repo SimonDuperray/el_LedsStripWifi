@@ -12,6 +12,7 @@ Leds strip controlled by WiFi via a simple web interface. The main objective is 
 [![leds.png](https://i.postimg.cc/jqBGSwJv/leds.png)](https://postimg.cc/7bMBBL9T)<br><br>
 [![bleu.png](https://i.postimg.cc/14xTC2Zb/bleu.png)](https://postimg.cc/T59Chk1c)<br><br>
 [![on.png](https://i.postimg.cc/ZYyJHh87/on.png)](https://postimg.cc/F1NtF8n3)<br><br>
+[![rouge.png](https://i.postimg.cc/CxxtvGyh/rouge.png)](https://postimg.cc/Cz9m5fLX)<br><br>
 	
 ## :computer: Technologies
 LedsStripWifiControlled is created with:
